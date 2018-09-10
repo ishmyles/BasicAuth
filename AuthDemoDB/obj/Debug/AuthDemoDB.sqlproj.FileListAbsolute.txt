@@ -1,0 +1,6 @@
+C:\Users\ishmyles\Desktop\BasicAuthTask\AuthDemoDB\bin\Debug\AuthDemoDB.dacpac
+C:\Users\ishmyles\Desktop\BasicAuthTask\AuthDemoDB\obj\Debug\AuthDemoDB.sqlprojAssemblyReference.cache
+C:\Users\ishmyles\Desktop\BasicAuthTask\AuthDemoDB\obj\Debug\AuthDemoDB.dll
+C:\Users\ishmyles\Desktop\BasicAuthTask\AuthDemoDB\obj\Debug\AuthDemoDB.pdb
+C:\Users\ishmyles\Desktop\BasicAuthTask\AuthDemoDB\bin\Debug\AuthDemoDB.dll
+C:\Users\ishmyles\Desktop\BasicAuthTask\AuthDemoDB\bin\Debug\AuthDemoDB.pdb
